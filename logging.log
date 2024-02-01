@@ -1,0 +1,19 @@
+
+
+
+2024-01-05 17:40:37,406: INFO: pythontest.Baseclass: Tiyashna
+2024-01-05 17:40:37,431: INFO: pythontest.Baseclass: Siva
+2024-01-05 17:48:03,234: INFO: test_EditData: Tiyashna
+2024-01-05 17:48:03,236: INFO: test_EditData: Siva
+2024-01-10 10:54:51,838: INFO: test_EditData: Tiyashna
+2024-01-10 10:54:51,877: INFO: test_EditData: Siva
+2024-01-10 10:54:51,910: ERROR: pythontest.test_logging: some Error in this file 
+2024-01-10 10:54:51,910: CRITICAL: pythontest.test_logging: Critical issue
+2024-01-22 05:27:11,349: INFO: test_EditData: Tiyashna
+2024-01-22 05:27:11,356: INFO: test_EditData: Siva
+2024-01-22 05:27:11,407: DEBUG: pythontest.test_logging: A debug statement is executed
+2024-01-22 05:27:11,407: INFO: pythontest.test_logging: Information statement
+2024-01-22 05:27:11,407: DEBUG: pythontest.test_logging: A debug statement is executed
+2024-01-22 05:27:11,409: WARNING: pythontest.test_logging: Something is in warning mode
+2024-01-22 05:27:11,409: ERROR: pythontest.test_logging: some Error in this file 
+2024-01-22 05:27:11,409: CRITICAL: pythontest.test_logging: Critical issue
